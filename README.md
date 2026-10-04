@@ -12,6 +12,7 @@ A second project, a private cross-cloud health-tech app, is in progress alongsid
 
 - Google Cloud Generative AI Leader — February 2026
 - AWS Certified AI Practitioner (AIF-C01) — July 2026
+- Google Cloud Digital Leader - October 2026
 
 ## Working toward
 
